@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 34,
+    "articles": [
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "CNN",
+        "title": "Supreme Court allows White House to press social media companies to remove disinformation - CNN",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNi8yNi9wb2xpdGljcy9zb2NpYWwtbWVkaWEtZGlzaW5mb3JtYXRpb24tc3VwcmVtZS1jb3VydC1ydWxpbmcvaW5kZXguaHRtbNIBXGh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDYvMjYvcG9saXRpY3Mvc29jaWFsLW1lZGlhLWRpc2luZm9ybWF0aW9uLXN1cHJlbWUtY291cnQtcnVsaW5n?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-06-26T14:22:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "cbs-news",
+          "name": "CBS News"
+        },
+        "author": "Stephen Swanson, WCCO Staff",
+        "title": "Video shows iconic home on Rapidan Dam partially collapsing into Blue Earth River in southern Minnesota - CBS Minnesota",
+        "description": "The raging Blue Earth River, which caused an abutment of the 114-year-old Rapidan Dam to partially fail, has now swallowed most of the iconic home that sits on a nearby embankment.",
+        "url": "https://www.cbsnews.com/minnesota/news/rapidan-dam-home-partially-collapses-blue-earth-river-southern-minnesota/",
+        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/06/26/132a40fb-a203-4964-bbcc-cafe25d6bdb2/thumbnail/1200x630/db4362e5cb34fbc875b4272e6f5e3124/white-house-on-rapidan-dam-falls-into-blue-earth-river-2.jpg?v=d44ea471ad55b1f821a0763c85064960",
+        "publishedAt": "2024-06-26T14:10:01Z",
+        "content": "RAPIDAN TOWNSHIP, Minn. — The raging Blue Earth River, which caused an abutment of the 114-year-old Rapidan Dam to partially fail, has now swallowed most of the iconic home that sits on a nearby emba… [+2287 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "IGN",
+        "title": "Nintendo World Championships: NES Edition – First Impressions of the Remixed Classics - IGN",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3Lmlnbi5jb20vYXJ0aWNsZXMvbmludGVuZG8td29ybGQtY2hhbXBpb25zaGlwcy1uZXMtZWRpdGlvbi1maXJzdC1pbXByZXNzaW9ucy1vZi10aGUtcmVtaXhlZC1jbGFzc2ljc9IBAA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-06-26T13:01:01Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "19 Minutes of The First Descendant Gameplay - IGN",
+        "description": "The team behind the First Descendant gave us the chance to play the full build of the game during Summer Game Fest. We took the opportunity to jump into a Ha...",
+        "url": "https://www.youtube.com/watch?v=obUcRIX05UM",
+        "urlToImage": "https://i.ytimg.com/vi/obUcRIX05UM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBMgWih_MA8=&rs=AOn4CLCOkIAdiSk98BIPqLo_vYADj9TacA",
+        "publishedAt": "2024-06-26T13:00:51Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "[Removed]"
+        },
+        "author": null,
+        "title": "[Removed]",
+        "description": "[Removed]",
+        "url": "https://removed.com",
+        "urlToImage": null,
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "content": "[Removed]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "Celine Dion Suffers Seizure in Heartbreaking Documentary - Inside Edition",
+        "description": "Celine Dion is being praised for sharing her painful journey with stiff person's syndrome. The beloved singer was at her doctor's for a check-up when a seizu...",
+        "url": "https://www.youtube.com/watch?v=t-L6Z3PF-w0",
+        "urlToImage": "https://i.ytimg.com/vi/t-L6Z3PF-w0/maxresdefault.jpg",
+        "publishedAt": "2024-06-26T12:51:02Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "abc-news",
+          "name": "ABC News"
+        },
+        "author": "MICHELLE CHAPMAN AP business writer",
+        "title": "Rivian shares soar on massive cash injection from Volkswagen, starting immediately with $1 billion - ABC News",
+        "description": "Shares of Rivian are soaring before the opening bell after Volkswagen agreed to invest $1 billion in the electric vehicle maker immediately and a potential total of up to $5 billion as part of a software development agreement",
+        "url": "https://abcnews.go.com/Business/wireStory/rivian-shares-soar-massive-cash-injection-volkswagen-starting-111436103",
+        "urlToImage": "https://i.abcnewsfe.com/a/684003b2-c57a-48e2-be64-ac16b564bb85/wirestory_9d4f85caeeccdf605805aabf50753484_16x9.jpg?w=1600",
+        "publishedAt": "2024-06-26T12:49:03Z",
+        "content": "Shares of Rivian soared 40% before markets opened Wednesday after Volkswagen vowed to invest $1 billion in the struggling electric vehicle maker immediately, and a potential total of up to $5 billion… [+2974 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Jake Fischer",
+        "title": "Inside the Mikal Bridges trade: What it means for the Knicks and the league at large - Yahoo Sports",
+        "description": "The deal equates to six total years of draft capital, one of the largest — if not the largest — returns for a player never to be named an All-Star in NBA...",
+        "url": "https://sports.yahoo.com/mikal-bridges-trade-what-it-means-for-the-knicks-and-the-league-at-large-042345611.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/5ZohPp5q6WZgY.lC5jcxrA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTU-/https://s.yimg.com/os/creatr-uploaded-images/2024-06/fa5ea0f0-335f-11ef-bddf-b94a1760aa34",
+        "publishedAt": "2024-06-26T12:14:24Z",
+        "content": "The Empire State Building lit blue and orange Tuesday night, officially celebrating a Mets victory. But the lights sparked into those same colors for the Knicks mere minutes after news broke that New… [+7211 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CBS Sports"
+        },
+        "author": "",
+        "title": "2024 NBA Mock Draft: Two-round projection has Bronny James staying home, Knicks getting point guard depth - CBS Sports",
+        "description": "Zaccharie Risacher edges Alex Sarr for the top spot in Kyle Boone's two-round mock draft",
+        "url": "https://www.cbssports.com/nba/news/2024-nba-mock-draft-two-round-projection-has-bronny-james-staying-home-knicks-getting-point-guard-depth/",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/06/25/8285b2ab-f385-47c7-a2d5-3d996e1b724e/thumbnail/1200x675/709dbe8138830227f08c94ede5601791/usatsi-22901377-1.jpg",
+        "publishedAt": "2024-06-26T12:06:00Z",
+        "content": "Months and months of speculation, analyzing (and overanalyzing) have all led to this. The 2024 NBA Draft will begin Wednesday night, where all the questions we have -- about who goes No. 1, about whe… [+814 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Financial Times"
+        },
+        "author": null,
+        "title": "Japanese yen falls to weakest level since 1986 - Financial Times",
+        "description": "Traders on alert for further currency intervention as market impact of April’s $62bn effort proves shortlived",
+        "url": "https://www.ft.com/content/5ec13d57-6bee-4e44-ab34-77370b0ec59c",
+        "urlToImage": null,
+        "publishedAt": "2024-06-26T12:02:03Z",
+        "content": "Then $75 per month.Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+      },
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Niha Masih",
+        "title": "Here are the ice cream brands recalled over listeria risk - The Washington Post - The Washington Post",
+        "description": "Maryland-based Totally Cool recalled more than 65 products it supplies to 13 brands after FDA sampling detected the bacterium that causes listeria.",
+        "url": "https://www.washingtonpost.com/health/2024/06/26/ice-cream-recalls-listeria-totally-cool/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RG5FYC65V5CU5C42V3BCHQ4H3U.JPG&w=1440",
+        "publishedAt": "2024-06-26T12:01:04Z",
+        "content": "A few of your favorite ice cream products might no longer be in the freezer this summer after a prominent supplier to brands such as Hersheys and Friendlys issued a recall notice over a potential lis… [+1894 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Leslie Josephs",
+        "title": "Southwest Airlines cuts revenue forecast, blaming changing booking patterns - CNBC",
+        "description": "The company said it still expects record quarterly operating revenue in the second quarter.",
+        "url": "https://www.cnbc.com/2024/06/26/southwest-airlines-cuts-revenue-forecast.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107428252-1718224523402-gettyimages-2051578400-hawaii_aircraft_ka_016.jpeg?v=1719399978&w=1920&h=1080",
+        "publishedAt": "2024-06-26T11:39:13Z",
+        "content": "Southwest Airlines shares fell Wednesday after the carrier cut its second-quarter revenue forecast, citing changing booking patterns.\r\nThe stock had been down about 4% in early trading before recover… [+1821 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "BBC.com",
+        "title": "Willliam Ruto withdraws Kenya finance bill after deadly protests - BBC.com",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jM2dnMzBnbTB4Mm_SAQA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-06-26T11:23:54Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": "Reuters UK",
+        "title": "UK Conservatives suffer fall in support after betting scandal - Reuters UK",
+        "description": null,
+        "url": "https://www.reuters.com/world/uk/uk-conservatives-suffer-fall-support-after-betting-scandal-2024-06-26/",
+        "urlToImage": null,
+        "publishedAt": "2024-06-26T10:23:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "[Removed]"
+        },
+        "author": null,
+        "title": "[Removed]",
+        "description": "[Removed]",
+        "url": "https://removed.com",
+        "urlToImage": null,
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "content": "[Removed]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "Streamer Dr Disrespect axed by his gaming company - BBC.com",
+        "description": "His removal comes four years after he was abruptly dropped by streaming platform, Twitch.",
+        "url": "https://www.bbc.com/news/articles/cq55x8v8nvro",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7a7c/live/d5a4b140-32e3-11ef-bdc5-41d7421c2adf.jpg",
+        "publishedAt": "2024-06-26T09:58:12Z",
+        "content": "The gaming streamer Herschel \"Guy\" Beahm, known online as Dr Disrespect, has had his role at his gaming company \"immediately terminated\" after it said it \"became aware of an allegation\" against him. … [+2817 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "9to5Mac"
+        },
+        "author": "Benjamin Mayo",
+        "title": "Alleged Apple Watch Series 10 schematics show larger 2-inch display, unchanged band attachment system - 9to5Mac",
+        "description": "Via schematics published by 91mobiles, we may have our first look at the upcoming Apple Watch Series 10. It is...",
+        "url": "https://9to5mac.com/2024/06/26/apple-watch-series-10-bigger-screen/",
+        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-watch-series-10-cad.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2024-06-26T09:32:00Z",
+        "content": "Via schematics published by 91mobiles, we may have our first look at the upcoming Apple Watch Series 10. It is perhaps not the drastic ‘Apple Watch X’ redesign that has been rumored over the last yea… [+1700 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "[Removed]"
+        },
+        "author": null,
+        "title": "[Removed]",
+        "description": "[Removed]",
+        "url": "https://removed.com",
+        "urlToImage": null,
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "content": "[Removed]"
+      },
+      {
+        "source": {
+          "id": "politico",
+          "name": "Politico"
+        },
+        "author": "POLITICO",
+        "title": "From Trump's immunity to abortion, the Supreme Court's most controversial decisions this term are about to drop - POLITICO",
+        "description": null,
+        "url": "https://www.politico.com/news/2024/06/26/supreme-court-decisions-guide-00165003",
+        "urlToImage": null,
+        "publishedAt": "2024-06-26T09:00:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "Gifts and displays as Japan's emperor visits Buckingham Palace - BBC.com",
+        "description": "Emperor Naruhito and Empress Masako of Japan taking part in a three-day state visit to the UK.",
+        "url": "https://www.bbc.com/news/articles/c2vvv2n00g8o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5b92/live/64d39030-3333-11ef-bdc5-41d7421c2adf.jpg",
+        "publishedAt": "2024-06-26T06:18:39Z",
+        "content": "King Charles and Queen Camilla welcomed Japanese Emperor Naruhito\r\nKing Charles greeted his guests in Japanese as the emperor and empress of Japan were given the full splendour of a Buckingham Palace… [+3461 chars]"
+      }
+    ]
+  }
