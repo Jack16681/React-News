@@ -2,6 +2,8 @@ import './App.css';
 import React, { useState, useEffect } from 'react'
 import Navbar from './components/Navbar';
 import News from './components/News';
+import Login from './components/Login';
+import SignUp from './Signup';
 import LoadingBar from 'react-top-loading-bar'
 import {
   BrowserRouter as Router,
@@ -17,7 +19,8 @@ const App = () => {
   // }
 
   const [progress, setProgress] = useState(0)
-  const [mode,setMode] = useState('light');
+  const [mode, setMode] = useState('light');
+  const [loggedIn, setLoggedIn] = useState(false);
 
   // setProgress = (progress) => {
   //   this.setState({progress:progress})
@@ -51,27 +54,42 @@ const App = () => {
     }
   }
 
-    return (
-      <div>
-        <Router>
-          <Navbar mode={mode} toggle={toggler}/>
-          <LoadingBar
-          height={3}
-        color='#f11946'
-        progress={progress}
-      />
-          <Routes>
-            <Route exact path="/" element={<News setProgress={setProgress}   key="general" pgSize={pgSize} country="in" category="general" mode={mode} />} />
-            <Route exact path="/sports" element={<News setProgress={setProgress}   key="sports" pgSize={pgSize} country="in" category="sports" mode={mode} />} />
-            <Route exact path="/science" element={<News setProgress={setProgress}   key="science" pgSize={pgSize} country="in" category="science" mode={mode} />} />
-            <Route exact path="/entertainment" element={<News setProgress={setProgress}   key="entertainment" pgSize={pgSize} country="in" category="entertainment" mode={mode} />} />
-            <Route exact path="/health" element={<News setProgress={setProgress}   key="health" pgSize={pgSize} country="in" category="health" mode={mode} />} />
-            <Route exact path="technology" element={<News setProgress={setProgress}   key="technology" pgSize={pgSize} country="in" category="technology" mode={mode}/>} />
-            <Route exact path="business" element={<News setProgress={setProgress}   key="business" pgSize={pgSize} country="in" category="business" mode={mode}  />} />
-          </Routes>
-        </Router>
-      </div>
-    )
+  const handleLoginSuccess = () => {
+    setLoggedIn(true);
+  };
+
+  return (
+    <div>
+      <Router>
+        <div>
+          {!loggedIn ? (
+            <Routes>
+              <Route path="/" element={<Login mode={mode} onLoginSuccess={handleLoginSuccess} />} />
+              <Route path="/signup" element={<SignUp mode={mode} />} />
+            </Routes>
+          ) : (
+            <>
+              <Navbar mode={mode} toggle={toggler} />
+              <LoadingBar
+                height={3}
+                color='#f11946'
+                progress={progress}
+              />
+              <Routes>
+                <Route exact path="/" element={<News setProgress={setProgress} key="general" pgSize={pgSize} country="in" category="general" mode={mode} />} />
+                <Route exact path="/sports" element={<News setProgress={setProgress} key="sports" pgSize={pgSize} country="in" category="sports" mode={mode} />} />
+                <Route exact path="/science" element={<News setProgress={setProgress} key="science" pgSize={pgSize} country="in" category="science" mode={mode} />} />
+                <Route exact path="/entertainment" element={<News setProgress={setProgress} key="entertainment" pgSize={pgSize} country="in" category="entertainment" mode={mode} />} />
+                <Route exact path="/health" element={<News setProgress={setProgress} key="health" pgSize={pgSize} country="in" category="health" mode={mode} />} />
+                <Route exact path="/technology" element={<News setProgress={setProgress} key="technology" pgSize={pgSize} country="in" category="technology" mode={mode} />} />
+                <Route exact path="/business" element={<News setProgress={setProgress} key="business" pgSize={pgSize} country="in" category="business" mode={mode} />} />
+              </Routes>
+            </>
+          )}
+        </div>
+      </Router>
+    </div>
+  );
 }
 
 

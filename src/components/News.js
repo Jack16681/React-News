@@ -143,7 +143,7 @@ const News = (props) => {
             {articles.map((ele) => {
               console.log(ele);
               return <div className="col-md-3 mx-2 my-2" key={ele.url}>
-                <NewsItem title={ele.title ? ele.title.slice(0, 50) : ""} description={ele.description ? ele.description.slice(0, 150) : ""} imgurl={ele.urlToImage ? ele.urlToImage : "https://i.ytimg.com/vi/t-L6Z3PF-w0/maxresdefault.jpg"} newsurl={ele.url} author={ele.author ? ele.author : "Unknown"} source={ele.source ? ele.source.name : "Unknown"} publishedAt={ele.publishedAt ? ele.publishedAt : "Unknown"} mode={props.mode}/>
+                <NewsItem title={ele.title ? ele.title.slice(0, 50) : ""} description={ele.description ? ele.description.slice(0, 150) : ""} imgurl={ele.urlToImage ? ele.urlToImage : "https://www.irishtimes.com/resizer/v2/623Z5QSDLBE7V3GWUVGCYNDKNI.jpg?smart=true&auth=e39632905c0a6e19a390fe84d2fee98c6205d5dfb59089e122f0fb15c96f8f51&width=1200&height=630"} newsurl={ele.url} author={ele.author ? ele.author : "Unknown"} source={ele.source ? ele.source.name : "Unknown"} publishedAt={ele.publishedAt ? ele.publishedAt : "Unknown"} mode={props.mode}/>
               </div>
             })}
           </div>
